@@ -61,7 +61,5 @@ p10 <- calc_and_plot("NC_000913.3_10.txt", "window = 10, E. coli")
 p20 <- calc_and_plot("NC_000913.3.txt", "window = 20, E. coli")
 p50 <- calc_and_plot("NC_000913.3_50.txt", "window = 50, E. coli")
 p100 <- calc_and_plot("NC_000913.3_100.txt", "window = 100, E. coli")
-calc_and_plot("NC_000913.3_custom_w21.txt", "window = 20, custom, E. coli")
-calc_and_plot("NC_000913.3_20byst.txt", "window = 20, by strain complexity, E. coli")
 
 dev.off()
