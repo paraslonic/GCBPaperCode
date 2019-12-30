@@ -1,0 +1,9 @@
+reference: GCF_000026325.1_ASM2632v1_genomic.fna
+window: 20
+iterations: 500
+reference: GCF_000026325.1_ASM2632v1_genomic.fna
+window: 20
+iterations: 500
+reference: GCF_000026325.1_ASM2632v1_genomic
+window: 20
+iterations: 500

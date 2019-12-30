@@ -1,0 +1,6 @@
+reference: GCF_000005845.2_ASM584v2_genomic
+window: 20
+iterations: 500
+reference: GCF_000005845.2_ASM584v2_genomic
+window: 20
+iterations: 500

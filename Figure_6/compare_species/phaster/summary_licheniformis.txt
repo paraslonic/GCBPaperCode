@@ -1,0 +1,8 @@
+	REGION	REGION_LENGTH	COMPLETENESS(score)	SPECIFIC_KEYWORD	REGION_POSITION	TRNA_NUM	TOTAL_PROTEIN_NUM	PHAGE_HIT_PROTEIN_NUM	HYPOTHETICAL_PROTEIN_NUM	PHAGE+HYPO_PROTEIN_PERCENTAGE	BACTERIAL_PROTEIN_NUM	ATT_SITE_SHOWUP	PHAGE_SPECIES_NUM	MOST_COMMON_PHAGE_NAME	MOST_COMMON_PHAGE_NUM	MOST_COMMON_PHAGE_PERCENTAGE	GC_PERCENTAGE	
+	1	35.2Kb	intact(100)	capsid,tail	1314824-1350062	0	44	30	5	79.5%	9	no	19	PHAGE_Strept_1	9	20.4%	47.07%	
+	2	41.5Kb	questionable(70)	integrase,terminase,portal,capsid	1422556-1464148	0	58	43	13	96.5%	2	yes	25	PHAGE_Bacill_SPP1	13	22.4%	42.51%	
+	3	12.8Kb	incomplete(30)	tail,integrase	1494215-1507032	0	7	6	0	85.7%	1	yes	4	PHAGE_Strept_Dp_1	3	42.8%	44.55%	
+	4	40.2Kb	intact(140)	terminase,portal,protease,capsid,head,tail,integrase	1507400-1547601	0	33	30	3	100%	0	yes	19	PHAGE_Bacill_Fah	6	18.1%	44.36%	
+	5	9.9Kb	incomplete(30)	tail,transposase	2409977-2419916	0	10	6	3	90%	1	no	6	PHAGE_Parame_NY2A	1	10%	44.14%	
+	6	47.2Kb	intact(120)	head,tail,capsid,protease,terminase,integrase	3421798-3469086	0	42	36	6	100%	0	yes	15	PHAGE_Bacill_phi105	18	42.8%	41.07%	
+	7	17.7Kb	incomplete(30)	recombinase,protease	4173802-4191504	4	17	10	4	82.3%	3	yes	9	PHAGE_Feldma_virus	2	11.7%	43.56%	

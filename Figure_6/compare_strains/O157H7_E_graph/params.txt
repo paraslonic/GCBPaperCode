@@ -1,0 +1,6 @@
+reference: GCF_000008865.1_ASM886v1_genomic
+window: 20
+iterations: 500
+reference: GCF_000008865.1_ASM886v1_genomic
+window: 20
+iterations: 500

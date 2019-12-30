@@ -1,0 +1,3 @@
+reference: GCF_000026265.1_ASM2626v1_genomic
+window: 20
+iterations: 500

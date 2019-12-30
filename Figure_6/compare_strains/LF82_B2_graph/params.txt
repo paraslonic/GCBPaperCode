@@ -1,0 +1,15 @@
+reference: GCF_000013265.1_ASM1326v1_genomic
+window: 20
+iterations: 500
+reference: GCF_000284495.1_ASM28449v1_genomic
+window: 20
+iterations: 500
+reference: GCF_000284495.1_ASM28449v1_genomic
+window: 20
+iterations: 500
+reference: GCF_000284495.1_ASM28449v1_genomic
+window: 20
+iterations: 500
+reference: GCF_000284495.1_ASM28449v1_genomic
+window: 20
+iterations: 500

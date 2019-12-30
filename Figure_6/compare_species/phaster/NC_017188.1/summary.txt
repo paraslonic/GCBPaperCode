@@ -1,0 +1,44 @@
+Criteria for scoring prophage regions (as intact, questionable, or incomplete):
+Method 1:
+1. If the number of certain phage organism in this table is more than or equal to 100% of the total number of CDS of the region,
+   the region is marked with total score 150. If less than 100%, method 2 and 3 will be used.
+
+Method 2:
+1. If the number of certain phage organism in this table  is more than 50% of the total number of CDS of the region, that phage 
+   organism is considered as the major potential phage for that region; the percentage of the total number
+   of that phage organism in this table in the  total number of proteins of the region is calculated and 
+   then multipled by 100; the percentage of the length of that phage organism in this table in the length 
+   of the region is calculated and then multipled by 50 (phage head's encapsulation capability is considered).
+
+Method 3:
+1. If any of the specific phage-related keywords (such as 'capsid', 'head', 'integrase', 'plate', 'tail', 'fiber',
+   'coat', 'transposase', 'portal', 'terminase', 'protease' or 'lysin') are present, the score will be increased 
+   by 10 for each keyword found.
+2. If the size of the region is greater than 30 Kb, the score will be increased by 10.
+3. If there are at least 40 proteins in the region, the score will be increased by 10.
+4. If all of the phage-related proteins and hypothetical proteins constitute more than 70% of
+   the total number of proteins in the region, the score will be increased by 10.
+
+Compared the total score of method 2 with the total score of method 3, the bigger one is chosen as the total score of the region.
+If the region's total score is less than 70, it is marked as incomplete; if between 70 to 90, it is marked as questionable; if greater than 90, it is marked as intact.
+   
+
+
+Totally 2 intact prophage regions have been identified.
+
+
+
+
+gi|384157612|ref|NC_017188.1|  Bacillus amyloliquefaciens TA208 chromosome, complete genome. .3937511, gc%: 45.83%
+                                  REGION         REGION_LENGTH            COMPLETENESS(score)           SPECIFIC_KEYWORD                             REGION_POSITION          TRNA_NUM                 TOTAL_PROTEIN_NUM       PHAGE_HIT_PROTEIN_NUM            HYPOTHETICAL_PROTEIN_NUM         PHAGE+HYPO_PROTEIN_PERCENTAGE    BACTERIAL_PROTEIN_NUM            ATT_SITE_SHOWUP                  PHAGE_SPECIES_NUM                MOST_COMMON_PHAGE_NAME                     MOST_COMMON_PHAGE_NUM            MOST_COMMON_PHAGE_PERCENTAGE     GC_PERCENTAGE                 
+                                 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  1              33.5Kb                   incomplete(60)                recombinase,virion,lysin,tail                1170603-1204111          0                        20                      12                               7                                95%                              1                                yes                              6                                PHAGE_Bacill_SPBc2                         7                                35%                              38.65%                        
+                                  2              109.2Kb                  incomplete(30)                NA                                           1205135-1314402          0                        176                     119                              55                               98.8%                            2                                yes                              23                               PHAGE_Bacill_SPBc2                         87                               49.4%                            35.51%                        
+                                  3              38Kb                     intact(110)                   tail,capsid,lysin                            2111288-2149374          0                        51                      29                               15                               86.2%                            7                                no                               19                               PHAGE_Strept_1                             8                                15.6%                            45.50%                        
+                                  4              27.8Kb                   questionable(80)              plate,tail,head,capsid,portal,terminase      2200709-2228538          0                        35                      28                               7                                100%                             0                                no                               10                               PHAGE_Deep_s_D6E                           13                               37.1%                            43.46%                        
+                                  5              17.2Kb                   incomplete(30)                tail,plate                                   2232634-2249860          0                        29                      16                               10                               89.6%                            3                                yes                              13                               PHAGE_Geobac_GBSV1                         3                                10.3%                            43.48%                        
+                                  6              12.7Kb                   incomplete(60)                coat                                         2252083-2264873          0                        19                      5                                4                                47.3%                            10                               no                               5                                PHAGE_Pseudo_LIT1                          1                                5.2%                             46.72%                        
+                                  7              37.7Kb                   intact(140)                   tail,head,portal,terminase,integrase         2904062-2941829          0                        41                      26                               14                               97.5%                            1                                yes                              14                               PHAGE_Entero_1                             7                                17%                              37.06%                        
+                                  8              15Kb                     incomplete(20)                tail                                         3049015-3064086          0                        17                      13                               4                                100%                             0                                no                               8                                PHAGE_Bacill_phi105                        5                                29.4%                            48.64%                        
+                                  9              20.8Kb                   incomplete(50)                capsid,head,portal,integrase                 3053256-3074091          0                        11                      7                                3                                90.9%                            1                                yes                              5                                PHAGE_Bacill_phBC6A51                      3                                27.2%                            48.66%                        
+                                  10             14.7Kb                   incomplete(50)                coat                                         3638255-3653043          0                        17                      8                                2                                58.8%                            7                                no                               4                                PHAGE_Escher_phAPEC8                       4                                23.5%                            50.02%                        
