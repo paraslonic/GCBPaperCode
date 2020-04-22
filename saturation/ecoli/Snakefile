@@ -1,8 +1,23 @@
 samples = expand("subset_{count}_{num}", count=range(10,110,10), num=range(1,4))
+gene_graph_dir="~/GIT/geneGraph"
+
+want_it_all = []
+want_it_all.append(expand("genomes_subsets/{sample}", sample=samples))
+want_it_all.append(expand("complexity/{sample}", sample=samples))
 
 rule all:
-    input: expand("genomes_subsets/{sample}", sample=samples)
+    input: want_it_all
 
+rule estimate:
+    input: "genomes_subsets/{sample}"
+    output: directory("complexity/{sample}")
+    params: ggdir=gene_graph_dir
+    shell:
+        """
+        ref=$(cat reference)
+        python {params.ggdir}/estimate_complexity.py -i genomes.sif -o {output} --reference $ref --genomes_list {input}
+        """
+        
 rule generate_subset:
     output: "genomes_subsets/subset_{count}_{num}"
     shell: 
