@@ -1,0 +1,14 @@
+samples = expand("subset_{count}_{num}", count=range(10,110,10), num=range(1,4))
+
+rule all:
+    input: expand("genomes_subsets/{sample}", sample=samples)
+
+rule generate_subset:
+    output: "genomes_subsets/subset_{count}_{num}"
+    shell: 
+        """
+        cat reference >> {output}
+        shuf -n {wildcards.count} genomes >> {output}
+        sed -i '2d' {output}
+        """
+
