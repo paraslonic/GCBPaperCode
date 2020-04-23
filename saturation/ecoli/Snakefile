@@ -1,8 +1,9 @@
-samples = expand("subset_{count}_{num}", count=range(10,110,10), num=range(1,4))
+
+counts=[5]+list(range(5,105,5))
+samples = expand("subset_{count}_{num}", count=counts, num=range(1,11))
 gene_graph_dir="~/GIT/geneGraph"
 
 want_it_all = []
-want_it_all.append(expand("genomes_subsets/{sample}", sample=samples))
 want_it_all.append(expand("complexity/{sample}", sample=samples))
 
 rule all:
