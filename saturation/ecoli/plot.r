@@ -3,9 +3,6 @@
 calc_cor <- function(file1, file2){
   c1 <- read.delim(file1, head = T)
   c2 <- read.delim(file2, head = T)
-  k = c1$complexity/c2$complexity
-  k <- subset(k, !is.infinite(k) & !is.nan(k))
-  c2$complexity = c2$complexity*mean(k)
   return(cor(c1$complexity, c2$complexity, method = "pe"))
 }
 
