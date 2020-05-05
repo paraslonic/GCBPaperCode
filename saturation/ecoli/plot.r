@@ -1,7 +1,12 @@
+#setwd("/data12/bio/PROJECTS/operonTravel/GCBPaperCode/saturation/ecoli/") 
+
 calc_cor <- function(file1, file2){
   c1 <- read.delim(file1, head = T)
   c2 <- read.delim(file2, head = T)
-  return(cor(c1$complexity, c2$complexity))
+  k = c1$complexity/c2$complexity
+  k <- subset(k, !is.infinite(k) & !is.nan(k))
+  c2$complexity = c2$complexity*mean(k)
+  return(cor(c1$complexity, c2$complexity, method = "pe"))
 }
 
 ref <-  "complexity/subset_100_1/prob_window_complexity_contig_NC_000913.3.txt"
@@ -16,7 +21,7 @@ for(n in c(5,seq(10,100, 5))){
   p = p+1
 }
 
-svg("rarefication_coli.svg", height = 7, width = 12, pointsize = 12)
+#svg("rarefication_coli.svg", height = 7, width = 12, pointsize = 12)
 
 plot(seq(5,100,5),cor_mat[,1], type = "n", ylim = c(0,1), bty="none", ylab="pearson correlation", 
      xaxt="n", xlab="number of genomes", cex.lab = 1.55, cex.axis = 1.2, xlim = c(0,100))
@@ -28,4 +33,4 @@ abline(h=1, lty=2)
 lines(seq(5,100,5),rowMeans(cor_mat), lty=1, lwd = 2,col = "blue")
 legend(66,0.8,"mean correlation",lwd = 2, col = "blue", bty="n", cex = 1.3)
 
-dev.off()
+#dev.off()
