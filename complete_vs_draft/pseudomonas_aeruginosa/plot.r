@@ -1,6 +1,6 @@
 library(RSQLite)
 
-setwd("/data12/bio/PROJECTS/operonTravel/GCBPaperCode/complete_vs_draft/pseudomonas_aeruginosa")
+#setwd("/data12/bio/PROJECTS/operonTravel/GCBPaperCode/complete_vs_draft/pseudomonas_aeruginosa")
 
 conn_complete <- dbConnect(RSQLite::SQLite(), "complete/Results/complete.db")
 res_complete <- dbGetQuery(conn_complete, "select n.start_coord, n.end_coord, c.prob_window_complexity from complexity_table c inner join nodes_table n on c.node_id=n.node_id and c.contig_id=n.contig_id where c.contig_id = 0 and c.window=20 order by n.start_coord")
@@ -29,3 +29,7 @@ for(i in 1:nrow(res_draft)){
 }
 
 title("Pseudomonas aeruginosa")
+
+
+merged <- merge(res_draft, res_complete, by = "start")
+print(cor(merged$complexity.x,merged$complexity.y))

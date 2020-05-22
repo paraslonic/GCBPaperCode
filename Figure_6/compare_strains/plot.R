@@ -2,7 +2,7 @@ library("ape")
 library(phangorn) 
 library("data.table")
 
-#setwd("/data4/bio/operonTravel_d4/PAPER2/code/Figure5/")
+#setwd("/data12/bio/PROJECTS/operonTravel/GCBPaperCode/Figure_6/compare_strains/")
 source("functions.r")
 
 tab_o157h7 <- calc_tab("O157H7_E_graph/prob_window_complexity_contig_NC_002695.1.txt",

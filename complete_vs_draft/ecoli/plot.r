@@ -27,3 +27,6 @@ for(i in 1:nrow(res_draft)){
 }
 
 title("Escherichia coli")
+
+merged <- merge(res_draft, res_complete, by = "start")
+print(cor(merged$complexity.x,merged$complexity.y))

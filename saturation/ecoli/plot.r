@@ -18,7 +18,7 @@ for(n in c(5,seq(10,100, 5))){
   p = p+1
 }
 
-#svg("rarefication_coli.svg", height = 7, width = 12, pointsize = 12)
+pdf("saturation_coli.pdf", height = 7, width = 12, pointsize = 12)
 
 plot(seq(5,100,5),cor_mat[,1], type = "n", ylim = c(0,1), bty="none", ylab="pearson correlation", 
      xaxt="n", xlab="number of genomes", cex.lab = 1.55, cex.axis = 1.2, xlim = c(0,100))
@@ -30,4 +30,4 @@ abline(h=1, lty=2)
 lines(seq(5,100,5),rowMeans(cor_mat), lty=1, lwd = 2,col = "blue")
 legend(66,0.8,"mean correlation",lwd = 2, col = "blue", bty="n", cex = 1.3)
 
-#dev.off()
+dev.off()
