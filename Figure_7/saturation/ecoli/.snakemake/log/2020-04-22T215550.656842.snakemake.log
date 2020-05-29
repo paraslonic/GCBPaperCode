@@ -1,0 +1,3 @@
+AttributeError in line 2 of /data12/bio/PROJECTS/operonTravel/GCBPaperCode/saturation/ecoli/Snakefile:
+'range' object has no attribute 'append'
+  File "/data12/bio/PROJECTS/operonTravel/GCBPaperCode/saturation/ecoli/Snakefile", line 2, in <module>

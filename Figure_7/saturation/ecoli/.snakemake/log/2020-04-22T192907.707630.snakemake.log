@@ -1,0 +1,32 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	30	estimate
+	31
+
+[Wed Apr 22 19:29:07 2020]
+rule estimate:
+    input: genomes_subsets/subset_100_3
+    output: complexity/subset_100_3
+    jobid: 60
+    wildcards: sample=subset_100_3
+
+Terminating processes on user request, this might take some time.
+[Wed Apr 22 19:29:41 2020]
+Error in rule estimate:
+    jobid: 60
+    output: complexity/subset_100_3
+    shell:
+        
+        ref=$(cat reference)
+        python ~/GIT/geneGraph/estimate_complexity.py -i genomes.sif -o complexity/subset_100_3 --reference $ref --genomes_list genomes_subsets/subset_100_3
+        
+        (exited with non-zero exit code)
+
+Removing output files of failed job estimate since they might be corrupted:
+complexity/subset_100_3
+Complete log: /data12/bio/PROJECTS/operonTravel/GCBPaperCode/saturation/ecoli/.snakemake/log/2020-04-22T192907.707630.snakemake.log

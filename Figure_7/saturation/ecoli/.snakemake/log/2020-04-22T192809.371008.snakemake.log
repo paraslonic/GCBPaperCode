@@ -1,0 +1,31 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	30	estimate
+	31
+
+[Wed Apr 22 19:28:09 2020]
+rule estimate:
+    input: genomes_subsets/subset_100_2
+    output: complexity/subset_100_2
+    jobid: 59
+    wildcards: sample=subset_100_2
+
+[Wed Apr 22 19:28:09 2020]
+Error in rule estimate:
+    jobid: 59
+    output: complexity/subset_100_2
+    shell:
+        
+        ref=$(cat reference)
+        python ~/GIT/geneGraph/ -i genomes.sif -o complexity/subset_100_2 --reference $ref --genomes_list genomes_subsets/subset_100_2
+        
+        (exited with non-zero exit code)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /data12/bio/PROJECTS/operonTravel/GCBPaperCode/saturation/ecoli/.snakemake/log/2020-04-22T192809.371008.snakemake.log

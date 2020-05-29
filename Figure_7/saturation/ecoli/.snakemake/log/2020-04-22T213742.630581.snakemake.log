@@ -1,0 +1,440 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 50
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	20	estimate
+	20	generate_subset
+	41
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_10_4
+    jobid: 4
+    wildcards: count=10, num=4
+
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_70_5
+    jobid: 35
+    wildcards: count=70, num=5
+
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_20_4
+    jobid: 9
+    wildcards: count=20, num=4
+
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_100_4
+    jobid: 49
+    wildcards: count=100, num=4
+
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_60_4
+    jobid: 29
+    wildcards: count=60, num=4
+
+[Wed Apr 22 21:37:42 2020]
+Finished job 4.
+1 of 41 steps (2%) done
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_90_5
+    jobid: 45
+    wildcards: count=90, num=5
+
+[Wed Apr 22 21:37:42 2020]
+Finished job 35.
+2 of 41 steps (5%) done
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_50_4
+    jobid: 24
+    wildcards: count=50, num=4
+
+[Wed Apr 22 21:37:42 2020]
+
+Finished job 9.
+[Wed Apr 22 21:37:42 2020]
+3 of 41 steps (7%) done
+rule generate_subset:
+    output: genomes_subsets/subset_30_5
+    jobid: 15
+    wildcards: count=30, num=5
+
+[Wed Apr 22 21:37:42 2020]
+
+Finished job 49.
+[Wed Apr 22 21:37:42 2020]
+4 of 41 steps (10%) done
+rule generate_subset:
+    output: genomes_subsets/subset_40_5
+    jobid: 20
+    wildcards: count=40, num=5
+
+[Wed Apr 22 21:37:42 2020]
+Finished job 29.
+5 of 41 steps (12%) done
+
+[Wed Apr 22 21:37:42 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_80_5
+    jobid: 40
+    wildcards: count=80, num=5
+
+[Wed Apr 22 21:37:42 2020]
+Finished job 45.
+6 of 41 steps (15%) done
+[Wed Apr 22 21:37:42 2020]
+Finished job 24.
+7 of 41 steps (17%) done
+[Wed Apr 22 21:37:42 2020]
+Finished job 15.
+8 of 41 steps (20%) done
+[Wed Apr 22 21:37:42 2020]
+Finished job 20.
+9 of 41 steps (22%) done
+[Wed Apr 22 21:37:42 2020]
+Finished job 40.
+10 of 41 steps (24%) done
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_90_4
+    jobid: 44
+    wildcards: count=90, num=4
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_60_5
+    jobid: 30
+    wildcards: count=60, num=5
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_100_5
+    jobid: 50
+    wildcards: count=100, num=5
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_10_5
+    jobid: 5
+    wildcards: count=10, num=5
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_70_4
+    jobid: 34
+    wildcards: count=70, num=4
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_20_5
+    jobid: 10
+    wildcards: count=20, num=5
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_80_4
+    jobid: 39
+    wildcards: count=80, num=4
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_40_4
+    jobid: 19
+    wildcards: count=40, num=4
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_50_5
+    jobid: 25
+    wildcards: count=50, num=5
+
+
+[Wed Apr 22 21:37:43 2020]
+rule generate_subset:
+    output: genomes_subsets/subset_30_4
+    jobid: 14
+    wildcards: count=30, num=4
+
+[Wed Apr 22 21:37:43 2020]
+Finished job 44.
+11 of 41 steps (27%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 30.
+12 of 41 steps (29%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 50.
+13 of 41 steps (32%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 5.
+14 of 41 steps (34%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 34.
+15 of 41 steps (37%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 10.
+16 of 41 steps (39%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 39.
+17 of 41 steps (41%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 19.
+18 of 41 steps (44%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 25.
+19 of 41 steps (46%) done
+[Wed Apr 22 21:37:43 2020]
+Finished job 14.
+20 of 41 steps (49%) done
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_90_5
+    output: complexity/subset_90_5
+    jobid: 95
+    wildcards: sample=subset_90_5
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_70_5
+    output: complexity/subset_70_5
+    jobid: 85
+    wildcards: sample=subset_70_5
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_80_5
+    output: complexity/subset_80_5
+    jobid: 90
+    wildcards: sample=subset_80_5
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_10_5
+    output: complexity/subset_10_5
+    jobid: 55
+    wildcards: sample=subset_10_5
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_100_4
+    output: complexity/subset_100_4
+    jobid: 99
+    wildcards: sample=subset_100_4
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_50_4
+    output: complexity/subset_50_4
+    jobid: 74
+    wildcards: sample=subset_50_4
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_20_4
+    output: complexity/subset_20_4
+    jobid: 59
+    wildcards: sample=subset_20_4
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_30_5
+    output: complexity/subset_30_5
+    jobid: 65
+    wildcards: sample=subset_30_5
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_90_4
+    output: complexity/subset_90_4
+    jobid: 94
+    wildcards: sample=subset_90_4
+
+
+[Wed Apr 22 21:37:44 2020]
+rule estimate:
+    input: genomes_subsets/subset_60_4
+    output: complexity/subset_60_4
+    jobid: 79
+    wildcards: sample=subset_60_4
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_100_5
+    output: complexity/subset_100_5
+    jobid: 100
+    wildcards: sample=subset_100_5
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_80_4
+    output: complexity/subset_80_4
+    jobid: 89
+    wildcards: sample=subset_80_4
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_60_5
+    output: complexity/subset_60_5
+    jobid: 80
+    wildcards: sample=subset_60_5
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_40_5
+    output: complexity/subset_40_5
+    jobid: 70
+    wildcards: sample=subset_40_5
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_20_5
+    output: complexity/subset_20_5
+    jobid: 60
+    wildcards: sample=subset_20_5
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_70_4
+    output: complexity/subset_70_4
+    jobid: 84
+    wildcards: sample=subset_70_4
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_10_4
+    output: complexity/subset_10_4
+    jobid: 54
+    wildcards: sample=subset_10_4
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_30_4
+    output: complexity/subset_30_4
+    jobid: 64
+    wildcards: sample=subset_30_4
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_50_5
+    output: complexity/subset_50_5
+    jobid: 75
+    wildcards: sample=subset_50_5
+
+
+[Wed Apr 22 21:37:45 2020]
+rule estimate:
+    input: genomes_subsets/subset_40_4
+    output: complexity/subset_40_4
+    jobid: 69
+    wildcards: sample=subset_40_4
+
+[Wed Apr 22 21:39:31 2020]
+Finished job 55.
+21 of 41 steps (51%) done
+[Wed Apr 22 21:40:11 2020]
+Finished job 60.
+22 of 41 steps (54%) done
+[Wed Apr 22 21:40:32 2020]
+Finished job 65.
+23 of 41 steps (56%) done
+[Wed Apr 22 21:40:36 2020]
+Finished job 54.
+24 of 41 steps (59%) done
+[Wed Apr 22 21:40:53 2020]
+Finished job 69.
+25 of 41 steps (61%) done
+[Wed Apr 22 21:40:56 2020]
+Finished job 64.
+26 of 41 steps (63%) done
+[Wed Apr 22 21:41:04 2020]
+Finished job 70.
+27 of 41 steps (66%) done
+[Wed Apr 22 21:41:11 2020]
+Finished job 59.
+28 of 41 steps (68%) done
+[Wed Apr 22 21:41:25 2020]
+Finished job 74.
+29 of 41 steps (71%) done
+[Wed Apr 22 21:41:25 2020]
+Finished job 75.
+30 of 41 steps (73%) done
+[Wed Apr 22 21:41:34 2020]
+Finished job 80.
+31 of 41 steps (76%) done
+[Wed Apr 22 21:41:48 2020]
+Finished job 79.
+32 of 41 steps (78%) done
+[Wed Apr 22 21:42:07 2020]
+Finished job 84.
+33 of 41 steps (80%) done
+[Wed Apr 22 21:42:26 2020]
+Finished job 90.
+34 of 41 steps (83%) done
+[Wed Apr 22 21:42:38 2020]
+Finished job 95.
+35 of 41 steps (85%) done
+[Wed Apr 22 21:42:43 2020]
+Finished job 94.
+36 of 41 steps (88%) done
+[Wed Apr 22 21:42:43 2020]
+Finished job 89.
+37 of 41 steps (90%) done
+[Wed Apr 22 21:43:01 2020]
+Finished job 99.
+38 of 41 steps (93%) done
+[Wed Apr 22 21:43:14 2020]
+Finished job 85.
+39 of 41 steps (95%) done
+[Wed Apr 22 21:44:09 2020]
+Finished job 100.
+40 of 41 steps (98%) done
+
+[Wed Apr 22 21:44:10 2020]
+localrule all:
+    input: genomes_subsets/subset_10_1, genomes_subsets/subset_10_2, genomes_subsets/subset_10_3, genomes_subsets/subset_10_4, genomes_subsets/subset_10_5, genomes_subsets/subset_20_1, genomes_subsets/subset_20_2, genomes_subsets/subset_20_3, genomes_subsets/subset_20_4, genomes_subsets/subset_20_5, genomes_subsets/subset_30_1, genomes_subsets/subset_30_2, genomes_subsets/subset_30_3, genomes_subsets/subset_30_4, genomes_subsets/subset_30_5, genomes_subsets/subset_40_1, genomes_subsets/subset_40_2, genomes_subsets/subset_40_3, genomes_subsets/subset_40_4, genomes_subsets/subset_40_5, genomes_subsets/subset_50_1, genomes_subsets/subset_50_2, genomes_subsets/subset_50_3, genomes_subsets/subset_50_4, genomes_subsets/subset_50_5, genomes_subsets/subset_60_1, genomes_subsets/subset_60_2, genomes_subsets/subset_60_3, genomes_subsets/subset_60_4, genomes_subsets/subset_60_5, genomes_subsets/subset_70_1, genomes_subsets/subset_70_2, genomes_subsets/subset_70_3, genomes_subsets/subset_70_4, genomes_subsets/subset_70_5, genomes_subsets/subset_80_1, genomes_subsets/subset_80_2, genomes_subsets/subset_80_3, genomes_subsets/subset_80_4, genomes_subsets/subset_80_5, genomes_subsets/subset_90_1, genomes_subsets/subset_90_2, genomes_subsets/subset_90_3, genomes_subsets/subset_90_4, genomes_subsets/subset_90_5, genomes_subsets/subset_100_1, genomes_subsets/subset_100_2, genomes_subsets/subset_100_3, genomes_subsets/subset_100_4, genomes_subsets/subset_100_5, complexity/subset_10_1, complexity/subset_10_2, complexity/subset_10_3, complexity/subset_10_4, complexity/subset_10_5, complexity/subset_20_1, complexity/subset_20_2, complexity/subset_20_3, complexity/subset_20_4, complexity/subset_20_5, complexity/subset_30_1, complexity/subset_30_2, complexity/subset_30_3, complexity/subset_30_4, complexity/subset_30_5, complexity/subset_40_1, complexity/subset_40_2, complexity/subset_40_3, complexity/subset_40_4, complexity/subset_40_5, complexity/subset_50_1, complexity/subset_50_2, complexity/subset_50_3, complexity/subset_50_4, complexity/subset_50_5, complexity/subset_60_1, complexity/subset_60_2, complexity/subset_60_3, complexity/subset_60_4, complexity/subset_60_5, complexity/subset_70_1, complexity/subset_70_2, complexity/subset_70_3, complexity/subset_70_4, complexity/subset_70_5, complexity/subset_80_1, complexity/subset_80_2, complexity/subset_80_3, complexity/subset_80_4, complexity/subset_80_5, complexity/subset_90_1, complexity/subset_90_2, complexity/subset_90_3, complexity/subset_90_4, complexity/subset_90_5, complexity/subset_100_1, complexity/subset_100_2, complexity/subset_100_3, complexity/subset_100_4, complexity/subset_100_5
+    jobid: 0
+
+[Wed Apr 22 21:44:10 2020]
+Finished job 0.
+41 of 41 steps (100%) done
+Complete log: /data12/bio/PROJECTS/operonTravel/GCBPaperCode/saturation/ecoli/.snakemake/log/2020-04-22T213742.630581.snakemake.log
