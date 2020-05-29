@@ -11,7 +11,7 @@ time_nocoalign$total = time_nocoalign$total/60
 
 max(time_coalign$total)
 
-pdf("runtime.pdf")
+png("runtime.png", ,width = 150, height = 150, units = "mm", res = 300)
 plot(time_nocoalign$genomes, time_nocoalign$total, ylim = c(1,500),type = "b", frame = FALSE, pch = 19,
      col = "black",lty = 1, lwd = 1, cex.lab = 1.4,log="y",
      xlab = "number of genomes", ylab="runtime, minutes")
