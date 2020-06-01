@@ -1,0 +1,1328 @@
+Number of sequences analyzed:       217
+
+Sequence 1 : parsnp_tree_2/GCF_000006765.1_ASM676v1_genomic.fna.ref
+GCF_000006765.1_ASM676v1_genomic.fna.ref
+Length:   6264404 bps
+ GC: 4169320.0
+ AT: 2095084.0
+Sequence 2 : fna/GCF_001879525.1_ASM187952v1_genomic.fna
+GCF_001879525.1_ASM187952v1_genomic.fna
+Length:   6504659 bps
+ GC: 4317362.0
+ AT: 2187297.0
+Sequence 3 : fna/GCF_003288335.1_ASM328833v1_genomic.fna
+GCF_003288335.1_ASM328833v1_genomic.fna
+Length:   6303875 bps
+ GC: 4195532.0
+ AT: 2108343.0
+Sequence 4 : fna/GCF_009662315.1_ASM966231v1_genomic.fna
+GCF_009662315.1_ASM966231v1_genomic.fna
+Length:   7190208 bps
+ GC: 4724501.0
+ AT: 2465707.0
+Sequence 5 : fna/GCF_003073695.1_ASM307369v1_genomic.fna
+GCF_003073695.1_ASM307369v1_genomic.fna
+Length:   7246701 bps
+ GC: 4752853.0
+ AT: 2492918.0
+Sequence 6 : fna/GCF_004102665.1_ASM410266v1_genomic.fna
+GCF_004102665.1_ASM410266v1_genomic.fna
+Length:   6383803 bps
+ GC: 4240044.0
+ AT: 2143759.0
+Sequence 7 : fna/GCF_009676765.1_ASM967676v1_genomic.fna
+GCF_009676765.1_ASM967676v1_genomic.fna
+Length:   7344079 bps
+ GC: 4829954.0
+ AT: 2514125.0
+Sequence 8 : fna/GCF_003433235.1_ASM343323v1_genomic.fna
+GCF_003433235.1_ASM343323v1_genomic.fna
+Length:   7097241 bps
+ GC: 4683438.0
+ AT: 2413803.0
+Sequence 9 : fna/GCF_003641125.1_ASM364112v1_genomic.fna
+GCF_003641125.1_ASM364112v1_genomic.fna
+Length:   7030474 bps
+ GC: 4633957.0
+ AT: 2396517.0
+Sequence 10 : fna/GCF_003429205.1_ASM342920v1_genomic.fna
+GCF_003429205.1_ASM342920v1_genomic.fna
+Length:   6503460 bps
+ GC: 4312609.0
+ AT: 2190851.0
+Sequence 11 : fna/GCF_000510305.1_ASM51030v1_genomic.fna
+GCF_000510305.1_ASM51030v1_genomic.fna
+Length:   6725183 bps
+ GC: 4455659.0
+ AT: 2269524.0
+Sequence 12 : fna/GCF_900618245.1_paerg000_genomic.fna
+GCF_900618245.1_paerg000_genomic.fna
+Length:   6493562 bps
+ GC: 4313384.0
+ AT: 2180178.0
+Sequence 13 : fna/GCF_001632245.1_ASM163224v1_genomic.fna
+GCF_001632245.1_ASM163224v1_genomic.fna
+Length:   7021552 bps
+ GC: 4636329.0
+ AT: 2385223.0
+Sequence 14 : fna/GCF_002968755.1_ASM296875v1_genomic.fna
+GCF_002968755.1_ASM296875v1_genomic.fna
+Length:   7248795 bps
+ GC: 4754191.0
+ AT: 2493674.0
+Sequence 15 : fna/GCF_003288355.1_ASM328835v1_genomic.fna
+GCF_003288355.1_ASM328835v1_genomic.fna
+Length:   6540996 bps
+ GC: 4309483.0
+ AT: 2231513.0
+Sequence 16 : fna/GCF_000026645.1_ASM2664v1_genomic.fna
+GCF_000026645.1_ASM2664v1_genomic.fna
+Length:   6601757 bps
+ GC: 4376792.0
+ AT: 2224965.0
+Sequence 17 : fna/GCF_001900195.1_ASM190019v1_genomic.fna
+GCF_001900195.1_ASM190019v1_genomic.fna
+Length:   6213026 bps
+ GC: 4135857.0
+ AT: 2077169.0
+Sequence 18 : fna/GCF_007559125.1_ASM755912v1_genomic.fna
+GCF_007559125.1_ASM755912v1_genomic.fna
+Length:   6514208 bps
+ GC: 4321510.0
+ AT: 2192698.0
+Sequence 19 : fna/GCF_009720425.1_ASM972042v1_genomic.fna
+GCF_009720425.1_ASM972042v1_genomic.fna
+Length:   7013692 bps
+ GC: 4603739.0
+ AT: 2409643.0
+Sequence 20 : fna/GCF_001045685.1_ASM104568v1_genomic.fna
+GCF_001045685.1_ASM104568v1_genomic.fna
+Length:   6317050 bps
+ GC: 4202332.0
+ AT: 2114718.0
+Sequence 21 : fna/GCF_002812925.1_ASM281292v1_genomic.fna
+GCF_002812925.1_ASM281292v1_genomic.fna
+Length:   6752906 bps
+ GC: 4470752.0
+ AT: 2282154.0
+Sequence 22 : fna/GCF_002075065.1_ASM207506v1_genomic.fna
+GCF_002075065.1_ASM207506v1_genomic.fna
+Length:   6445239 bps
+ GC: 4278248.0
+ AT: 2166991.0
+Sequence 23 : fna/GCF_902703215.1_C7-25_genomic.fna
+GCF_902703215.1_C7-25_genomic.fna
+Length:   6479881 bps
+ GC: 4297209.0
+ AT: 2182672.0
+Sequence 24 : fna/GCF_001515915.2_ASM151591v2_genomic.fna
+GCF_001515915.2_ASM151591v2_genomic.fna
+Length:   6795741 bps
+ GC: 4495249.0
+ AT: 2300492.0
+Sequence 25 : fna/GCF_900149285.1_PcyII-10_genomic.fna
+GCF_900149285.1_PcyII-10_genomic.fna
+Length:   6288645 bps
+ GC: 4182354.0
+ AT: 2106291.0
+Sequence 26 : fna/GCF_003288435.1_ASM328843v1_genomic.fna
+GCF_003288435.1_ASM328843v1_genomic.fna
+Length:   6685102 bps
+ GC: 4427780.0
+ AT: 2257322.0
+Sequence 27 : fna/GCF_003369755.1_ASM336975v1_genomic.fna
+GCF_003369755.1_ASM336975v1_genomic.fna
+Length:   7106857 bps
+ GC: 4672820.0
+ AT: 2434037.0
+Sequence 28 : fna/GCF_004291075.1_ASM429107v1_genomic.fna
+GCF_004291075.1_ASM429107v1_genomic.fna
+Length:   6819140 bps
+ GC: 4506571.0
+ AT: 2312569.0
+Sequence 29 : fna/GCF_001722005.2_ASM172200v2_genomic.fna
+GCF_001722005.2_ASM172200v2_genomic.fna
+Length:   6959561 bps
+ GC: 4583736.0
+ AT: 2375515.0
+Sequence 30 : fna/GCF_003028335.1_ASM302833v1_genomic.fna
+GCF_003028335.1_ASM302833v1_genomic.fna
+Length:   7050928 bps
+ GC: 4655289.0
+ AT: 2395639.0
+Sequence 31 : fna/GCF_003060845.1_ASM306084v1_genomic.fna
+GCF_003060845.1_ASM306084v1_genomic.fna
+Length:   6867314 bps
+ GC: 4535376.0
+ AT: 2331938.0
+Sequence 32 : fna/GCF_000496455.2_ASM49645v2_genomic.fna
+GCF_000496455.2_ASM49645v2_genomic.fna
+Length:   7055752 bps
+ GC: 4640122.0
+ AT: 2415551.0
+Sequence 33 : fna/GCF_009676885.1_ASM967688v1_genomic.fna
+GCF_009676885.1_ASM967688v1_genomic.fna
+Length:   6737396 bps
+ GC: 4465160.0
+ AT: 2272236.0
+Sequence 34 : fna/GCF_003626935.1_ASM362693v2_genomic.fna
+GCF_003626935.1_ASM362693v2_genomic.fna
+Length:   6876113 bps
+ GC: 4521880.0
+ AT: 2354233.0
+Sequence 35 : fna/GCF_003950255.1_ASM395025v1_genomic.fna
+GCF_003950255.1_ASM395025v1_genomic.fna
+Length:   6937609 bps
+ GC: 4565312.0
+ AT: 2372297.0
+Sequence 36 : fna/GCF_000359505.1_ASM35950v1_genomic.fna
+GCF_000359505.1_ASM35950v1_genomic.fna
+Length:   6421010 bps
+ GC: 4265054.0
+ AT: 2155955.0
+Sequence 37 : fna/GCF_000508765.1_ASM50876v1_genomic.fna
+GCF_000508765.1_ASM50876v1_genomic.fna
+Length:   6550070 bps
+ GC: 4345361.0
+ AT: 2204709.0
+Sequence 38 : fna/GCF_007559105.1_ASM755910v1_genomic.fna
+GCF_007559105.1_ASM755910v1_genomic.fna
+Length:   6714255 bps
+ GC: 4433715.0
+ AT: 2280540.0
+Sequence 39 : fna/GCF_001516165.2_ASM151616v2_genomic.fna
+GCF_001516165.2_ASM151616v2_genomic.fna
+Length:   6808844 bps
+ GC: 4488628.0
+ AT: 2320216.0
+Sequence 40 : fna/GCF_006971785.1_ASM697178v1_genomic.fna
+GCF_006971785.1_ASM697178v1_genomic.fna
+Length:   6712776 bps
+ GC: 4449209.0
+ AT: 2263257.0
+Sequence 41 : fna/GCF_011106815.1_ASM1110681v1_genomic.fna
+GCF_011106815.1_ASM1110681v1_genomic.fna
+Length:   7230210 bps
+ GC: 4725100.0
+ AT: 2504800.0
+Sequence 42 : fna/GCF_001542795.2_ASM154279v2_genomic.fna
+GCF_001542795.2_ASM154279v2_genomic.fna
+Length:   6348761 bps
+ GC: 4216615.0
+ AT: 2132146.0
+Sequence 43 : fna/GCF_000017205.1_ASM1720v1_genomic.fna
+GCF_000017205.1_ASM1720v1_genomic.fna
+Length:   6588339 bps
+ GC: 4377914.0
+ AT: 2210425.0
+Sequence 44 : fna/GCF_003408495.1_ASM340849v1_genomic.fna
+GCF_003408495.1_ASM340849v1_genomic.fna
+Length:   6940949 bps
+ GC: 4578849.0
+ AT: 2362100.0
+Sequence 45 : fna/GCF_000524595.1_ASM52459v1_genomic.fna
+GCF_000524595.1_ASM52459v1_genomic.fna
+Length:   6433441 bps
+ GC: 4273644.0
+ AT: 2159797.0
+Sequence 46 : fna/GCF_001516005.1_ASM151600v1_genomic.fna
+GCF_001516005.1_ASM151600v1_genomic.fna
+Length:   6322459 bps
+ GC: 4204825.0
+ AT: 2117634.0
+Sequence 47 : fna/GCF_900637045.1_46837_C02_genomic.fna
+GCF_900637045.1_46837_C02_genomic.fna
+Length:   6363395 bps
+ GC: 4224869.0
+ AT: 2138526.0
+Sequence 48 : fna/GCF_002968695.1_ASM296869v1_genomic.fna
+GCF_002968695.1_ASM296869v1_genomic.fna
+Length:   7086674 bps
+ GC: 4668171.0
+ AT: 2417883.0
+Sequence 49 : fna/GCF_002812885.1_ASM281288v1_genomic.fna
+GCF_002812885.1_ASM281288v1_genomic.fna
+Length:   6494585 bps
+ GC: 4306713.0
+ AT: 2187562.0
+Sequence 50 : fna/GCF_001900265.1_ASM190026v1_genomic.fna
+GCF_001900265.1_ASM190026v1_genomic.fna
+Length:   6213276 bps
+ GC: 4135996.0
+ AT: 2077280.0
+Sequence 51 : fna/GCF_002411865.3_ASM241186v3_genomic.fna
+GCF_002411865.3_ASM241186v3_genomic.fna
+Length:   6925889 bps
+ GC: 4563460.0
+ AT: 2362429.0
+Sequence 52 : fna/GCF_001721825.1_ASM172182v1_genomic.fna
+GCF_001721825.1_ASM172182v1_genomic.fna
+Length:   6681981 bps
+ GC: 4420744.0
+ AT: 2261237.0
+Sequence 53 : fna/GCF_001722045.1_ASM172204v1_genomic.fna
+GCF_001722045.1_ASM172204v1_genomic.fna
+Length:   6639108 bps
+ GC: 4396030.0
+ AT: 2243078.0
+Sequence 54 : fna/GCF_008033745.1_ASM803374v1_genomic.fna
+GCF_008033745.1_ASM803374v1_genomic.fna
+Length:   6481697 bps
+ GC: 4302813.0
+ AT: 2178884.0
+Sequence 55 : fna/GCF_900618285.1_paerg005_genomic.fna
+GCF_900618285.1_paerg005_genomic.fna
+Length:   6931425 bps
+ GC: 4574431.0
+ AT: 2356994.0
+Sequence 56 : fna/GCF_001457615.1_NCTC10332_genomic.fna
+GCF_001457615.1_NCTC10332_genomic.fna
+Length:   6316979 bps
+ GC: 4202241.0
+ AT: 2114738.0
+Sequence 57 : fna/GCF_003798105.1_ASM379810v1_genomic.fna
+GCF_003798105.1_ASM379810v1_genomic.fna
+Length:   7079598 bps
+ GC: 4677671.0
+ AT: 2401926.0
+Sequence 58 : fna/GCF_001721845.1_ASM172184v1_genomic.fna
+GCF_001721845.1_ASM172184v1_genomic.fna
+Length:   6683204 bps
+ GC: 4421486.0
+ AT: 2261718.0
+Sequence 59 : fna/GCF_003194245.1_ASM319424v1_genomic.fna
+GCF_003194245.1_ASM319424v1_genomic.fna
+Length:   6859232 bps
+ GC: 4529860.0
+ AT: 2329372.0
+Sequence 60 : fna/GCF_002968955.1_ASM296895v1_genomic.fna
+GCF_002968955.1_ASM296895v1_genomic.fna
+Length:   7162784 bps
+ GC: 4712902.0
+ AT: 2449882.0
+Sequence 61 : fna/GCF_001721785.1_ASM172178v1_genomic.fna
+GCF_001721785.1_ASM172178v1_genomic.fna
+Length:   6645477 bps
+ GC: 4399963.0
+ AT: 2245514.0
+Sequence 62 : fna/GCF_900185255.1_NN2_genomic.fna
+GCF_900185255.1_NN2_genomic.fna
+Length:   6902967 bps
+ GC: 4564033.0
+ AT: 2338934.0
+Sequence 63 : fna/GCF_002104615.1_ASM210461v1_genomic.fna
+GCF_002104615.1_ASM210461v1_genomic.fna
+Length:   6893164 bps
+ GC: 4554077.0
+ AT: 2339087.0
+Sequence 64 : fna/GCF_003369775.1_ASM336977v1_genomic.fna
+GCF_003369775.1_ASM336977v1_genomic.fna
+Length:   6831076 bps
+ GC: 4518975.0
+ AT: 2312101.0
+Sequence 65 : fna/GCF_900618335.1_paerg012_genomic.fna
+GCF_900618335.1_paerg012_genomic.fna
+Length:   6434020 bps
+ GC: 4272041.0
+ AT: 2161979.0
+Sequence 66 : fna/GCF_000271985.2_ASM27198v2_genomic.fna
+GCF_000271985.2_ASM27198v2_genomic.fna
+Length:   6243825 bps
+ GC: 4152358.0
+ AT: 2091467.0
+Sequence 67 : fna/GCF_003052005.2_ASM305200v2_genomic.fna
+GCF_003052005.2_ASM305200v2_genomic.fna
+Length:   6886080 bps
+ GC: 4545601.0
+ AT: 2340479.0
+Sequence 68 : fna/GCF_007559085.1_ASM755908v1_genomic.fna
+GCF_007559085.1_ASM755908v1_genomic.fna
+Length:   6616247 bps
+ GC: 4380086.0
+ AT: 2236161.0
+Sequence 69 : fna/GCF_002753655.1_ASM275365v1_genomic.fna
+GCF_002753655.1_ASM275365v1_genomic.fna
+Length:   6621378 bps
+ GC: 4383670.0
+ AT: 2237708.0
+Sequence 70 : fna/GCF_002192475.1_ASM219247v1_genomic.fna
+GCF_002192475.1_ASM219247v1_genomic.fna
+Length:   7008516 bps
+ GC: 4614705.0
+ AT: 2393811.0
+Sequence 71 : fna/GCF_007833895.1_ASM783389v1_genomic.fna
+GCF_007833895.1_ASM783389v1_genomic.fna
+Length:   6796644 bps
+ GC: 4491979.0
+ AT: 2304355.0
+Sequence 72 : fna/GCF_000414035.1_ASM41403v1_genomic.fna
+GCF_000414035.1_ASM41403v1_genomic.fna
+Length:   6342034 bps
+ GC: 4214983.0
+ AT: 2127051.0
+Sequence 73 : fna/GCF_001516305.2_ASM151630v2_genomic.fna
+GCF_001516305.2_ASM151630v2_genomic.fna
+Length:   6334378 bps
+ GC: 4213195.0
+ AT: 2121183.0
+Sequence 74 : fna/GCF_900636755.1_43941_E01_genomic.fna
+GCF_900636755.1_43941_E01_genomic.fna
+Length:   6839985 bps
+ GC: 4520722.0
+ AT: 2319263.0
+Sequence 75 : fna/GCF_900497025.1_ASM90049702v1_genomic.fna
+GCF_900497025.1_ASM90049702v1_genomic.fna
+Length:   7232220 bps
+ GC: 4745014.0
+ AT: 2486896.0
+Sequence 76 : fna/GCF_000284555.1_ASM28455v1_genomic.fna
+GCF_000284555.1_ASM28455v1_genomic.fna
+Length:   6764661 bps
+ GC: 4474404.0
+ AT: 2290257.0
+Sequence 77 : fna/GCF_003073615.1_ASM307361v1_genomic.fna
+GCF_003073615.1_ASM307361v1_genomic.fna
+Length:   6853499 bps
+ GC: 4526927.0
+ AT: 2326572.0
+Sequence 78 : fna/GCF_001679685.1_ASM167968v1_genomic.fna
+GCF_001679685.1_ASM167968v1_genomic.fna
+Length:   6853820 bps
+ GC: 4510215.0
+ AT: 2343295.0
+Sequence 79 : fna/GCF_900618265.1_paerg004_genomic.fna
+GCF_900618265.1_paerg004_genomic.fna
+Length:   6452809 bps
+ GC: 4284769.0
+ AT: 2168040.0
+Sequence 80 : fna/GCF_001516345.1_ASM151634v1_genomic.fna
+GCF_001516345.1_ASM151634v1_genomic.fna
+Length:   6836415 bps
+ GC: 4516875.0
+ AT: 2319540.0
+Sequence 81 : fna/GCF_003812165.1_ASM381216v1_genomic.fna
+GCF_003812165.1_ASM381216v1_genomic.fna
+Length:   6931872 bps
+ GC: 4581035.0
+ AT: 2350217.0
+Sequence 82 : fna/GCF_009497675.1_ASM949767v1_genomic.fna
+GCF_009497675.1_ASM949767v1_genomic.fna
+Length:   6973300 bps
+ GC: 4603985.0
+ AT: 2369005.0
+Sequence 83 : fna/GCF_003206535.1_ASM320653v1_genomic.fna
+GCF_003206535.1_ASM320653v1_genomic.fna
+Length:   7042762 bps
+ GC: 4640210.0
+ AT: 2402242.0
+Sequence 84 : fna/GCF_902703185.1_PcyII-29_genomic.fna
+GCF_902703185.1_PcyII-29_genomic.fna
+Length:   6621209 bps
+ GC: 4386931.0
+ AT: 2234278.0
+Sequence 85 : fna/GCF_003798125.1_ASM379812v1_genomic.fna
+GCF_003798125.1_ASM379812v1_genomic.fna
+Length:   6706800 bps
+ GC: 4436574.0
+ AT: 2270226.0
+Sequence 86 : fna/GCF_003073895.1_ASM307389v1_genomic.fna
+GCF_003073895.1_ASM307389v1_genomic.fna
+Length:   7578659 bps
+ GC: 4957461.0
+ AT: 2620578.0
+Sequence 87 : fna/GCF_002215345.1_ASM221534v1_genomic.fna
+GCF_002215345.1_ASM221534v1_genomic.fna
+Length:   7214624 bps
+ GC: 4739950.0
+ AT: 2474364.0
+Sequence 88 : fna/GCF_000226155.1_ASM22615v1_genomic.fna
+GCF_000226155.1_ASM22615v1_genomic.fna
+Length:   6327754 bps
+ GC: 4208227.0
+ AT: 2119527.0
+Sequence 89 : fna/GCF_001293085.1_ASM129308v1_genomic.fna
+GCF_001293085.1_ASM129308v1_genomic.fna
+Length:   6500439 bps
+ GC: 4312635.0
+ AT: 2187804.0
+Sequence 90 : fna/GCF_002968655.1_ASM296865v1_genomic.fna
+GCF_002968655.1_ASM296865v1_genomic.fna
+Length:   7282546 bps
+ GC: 4784781.0
+ AT: 2497455.0
+Sequence 91 : fna/GCF_004355145.1_ASM435514v1_genomic.fna
+GCF_004355145.1_ASM435514v1_genomic.fna
+Length:   6373893 bps
+ GC: 4237317.0
+ AT: 2136576.0
+Sequence 92 : fna/GCF_001721805.1_ASM172180v1_genomic.fna
+GCF_001721805.1_ASM172180v1_genomic.fna
+Length:   6681975 bps
+ GC: 4420744.0
+ AT: 2261231.0
+Sequence 93 : fna/GCF_901472565.1_36340_H02_genomic.fna
+GCF_901472565.1_36340_H02_genomic.fna
+Length:   6779267 bps
+ GC: 4488628.0
+ AT: 2290639.0
+Sequence 94 : fna/GCF_001729505.1_ASM172950v1_genomic.fna
+GCF_001729505.1_ASM172950v1_genomic.fna
+Length:   6276434 bps
+ GC: 4176042.0
+ AT: 2100392.0
+Sequence 95 : fna/GCF_900636975.1_45813_F01_genomic.fna
+GCF_900636975.1_45813_F01_genomic.fna
+Length:   6765311 bps
+ GC: 4473236.0
+ AT: 2292075.0
+Sequence 96 : fna/GCF_004355125.1_ASM435512v1_genomic.fna
+GCF_004355125.1_ASM435512v1_genomic.fna
+Length:   6373139 bps
+ GC: 4236900.0
+ AT: 2136239.0
+Sequence 97 : fna/GCF_902703195.1_PcyII-40_genomic.fna
+GCF_902703195.1_PcyII-40_genomic.fna
+Length:   6831274 bps
+ GC: 4517089.0
+ AT: 2314185.0
+Sequence 98 : fna/GCF_000473745.2_ASM47374v3_genomic.fna
+GCF_000473745.2_ASM47374v3_genomic.fna
+Length:   6818030 bps
+ GC: 4532896.0
+ AT: 2285134.0
+Sequence 99 : fna/GCF_002223805.1_ASM222380v1_genomic.fna
+GCF_002223805.1_ASM222380v1_genomic.fna
+Length:   6661962 bps
+ GC: 4405868.0
+ AT: 2256094.0
+Sequence 100 : fna/GCF_003812885.1_ASM381288v1_genomic.fna
+GCF_003812885.1_ASM381288v1_genomic.fna
+Length:   6999770 bps
+ GC: 4612526.0
+ AT: 2387244.0
+Sequence 101 : fna/GCF_901472595.1_36340_C01_genomic.fna
+GCF_901472595.1_36340_C01_genomic.fna
+Length:   6788588 bps
+ GC: 4496784.0
+ AT: 2291804.0
+Sequence 102 : fna/GCF_001077475.1_ASM107747v1_genomic.fna
+GCF_001077475.1_ASM107747v1_genomic.fna
+Length:   6368008 bps
+ GC: 4232503.0
+ AT: 2135505.0
+Sequence 103 : fna/GCF_000829885.1_ASM82988v1_genomic.fna
+GCF_000829885.1_ASM82988v1_genomic.fna
+Length:   6712339 bps
+ GC: 4436130.0
+ AT: 2276209.0
+Sequence 104 : fna/GCF_900070375.1_PAO1OR_genomic.fna
+GCF_900070375.1_PAO1OR_genomic.fna
+Length:   6276469 bps
+ GC: 4176084.0
+ AT: 2100385.0
+Sequence 105 : fna/GCF_002968515.1_ASM296851v1_genomic.fna
+GCF_002968515.1_ASM296851v1_genomic.fna
+Length:   6463575 bps
+ GC: 4294493.0
+ AT: 2169082.0
+Sequence 106 : fna/GCF_001606045.1_ASM160604v1_genomic.fna
+GCF_001606045.1_ASM160604v1_genomic.fna
+Length:   6370730 bps
+ GC: 4231099.0
+ AT: 2139631.0
+Sequence 107 : fna/GCF_000829275.1_ASM82927v1_genomic.fna
+GCF_000829275.1_ASM82927v1_genomic.fna
+Length:   6814936 bps
+ GC: 4496570.0
+ AT: 2318366.0
+Sequence 108 : fna/GCF_000014625.1_ASM1462v1_genomic.fna
+GCF_000014625.1_ASM1462v1_genomic.fna
+Length:   6537648 bps
+ GC: 4333951.0
+ AT: 2203686.0
+Sequence 109 : fna/GCF_002287725.2_ASM228772v2_genomic.fna
+GCF_002287725.2_ASM228772v2_genomic.fna
+Length:   6930893 bps
+ GC: 4568066.0
+ AT: 2362827.0
+Sequence 110 : fna/GCF_012276675.1_ASM1227667v1_genomic.fna
+GCF_012276675.1_ASM1227667v1_genomic.fna
+Length:   6375262 bps
+ GC: 4232809.0
+ AT: 2142453.0
+Sequence 111 : fna/GCF_008195485.1_ASM819548v1_genomic.fna
+GCF_008195485.1_ASM819548v1_genomic.fna
+Length:   7012798 bps
+ GC: 4632612.0
+ AT: 2380186.0
+Sequence 112 : fna/GCF_002812845.1_ASM281284v1_genomic.fna
+GCF_002812845.1_ASM281284v1_genomic.fna
+Length:   6638559 bps
+ GC: 4378686.0
+ AT: 2259873.0
+Sequence 113 : fna/GCF_900095805.1_PA14Or_genomic.fna
+GCF_900095805.1_PA14Or_genomic.fna
+Length:   6541482 bps
+ GC: 4336210.0
+ AT: 2205272.0
+Sequence 114 : fna/GCF_000568855.2_ASM56885v2_genomic.fna
+GCF_000568855.2_ASM56885v2_genomic.fna
+Length:   6283316 bps
+ GC: 4163617.0
+ AT: 2115009.0
+Sequence 115 : fna/GCF_900243355.1_RW109_genomic.fna
+GCF_900243355.1_RW109_genomic.fna
+Length:   7756844 bps
+ GC: 5050370.0
+ AT: 2705854.0
+Sequence 116 : fna/GCF_002205375.1_ASM220537v1_genomic.fna
+GCF_002205375.1_ASM220537v1_genomic.fna
+Length:   7050510 bps
+ GC: 4641071.0
+ AT: 2409439.0
+Sequence 117 : fna/GCF_001792855.1_ASM179285v1_genomic.fna
+GCF_001792855.1_ASM179285v1_genomic.fna
+Length:   6928736 bps
+ GC: 4573598.0
+ AT: 2355138.0
+Sequence 118 : fna/GCF_009648875.1_ASM964887v1_genomic.fna
+GCF_009648875.1_ASM964887v1_genomic.fna
+Length:   6441924 bps
+ GC: 4270590.0
+ AT: 2171334.0
+Sequence 119 : fna/GCF_001721765.1_ASM172176v1_genomic.fna
+GCF_001721765.1_ASM172176v1_genomic.fna
+Length:   6642996 bps
+ GC: 4398662.0
+ AT: 2244334.0
+Sequence 120 : fna/GCF_003369735.1_ASM336973v1_genomic.fna
+GCF_003369735.1_ASM336973v1_genomic.fna
+Length:   6954984 bps
+ GC: 4588565.0
+ AT: 2366109.0
+Sequence 121 : fna/GCF_001515845.2_ASM151584v2_genomic.fna
+GCF_001515845.2_ASM151584v2_genomic.fna
+Length:   6934277 bps
+ GC: 4579004.0
+ AT: 2355273.0
+Sequence 122 : fna/GCF_002812865.1_ASM281286v1_genomic.fna
+GCF_002812865.1_ASM281286v1_genomic.fna
+Length:   6497748 bps
+ GC: 4308495.0
+ AT: 2188943.0
+Sequence 123 : fna/GCF_003798145.1_ASM379814v1_genomic.fna
+GCF_003798145.1_ASM379814v1_genomic.fna
+Length:   6729216 bps
+ GC: 4455541.0
+ AT: 2273674.0
+Sequence 124 : fna/GCF_902172305.1_Pseudomonas_aeruginosa_PAK_genomic.fna
+GCF_902172305.1_Pseudomonas_aeruginosa_PAK_genomic.fna
+Length:   6395872 bps
+ GC: 4249650.0
+ AT: 2146222.0
+Sequence 125 : fna/GCF_001870265.1_ASM187026v1_genomic.fna
+GCF_001870265.1_ASM187026v1_genomic.fna
+Length:   7068021 bps
+ GC: 4658879.0
+ AT: 2408832.0
+Sequence 126 : fna/GCF_000981825.1_ASM98182v1_genomic.fna
+GCF_000981825.1_ASM98182v1_genomic.fna
+Length:   7497593 bps
+ GC: 4918177.0
+ AT: 2579416.0
+Sequence 127 : fna/GCF_003204335.1_ASM320433v1_genomic.fna
+GCF_003204335.1_ASM320433v1_genomic.fna
+Length:   6799785 bps
+ GC: 4488789.0
+ AT: 2310996.0
+Sequence 128 : fna/GCF_900618255.1_paerg002_genomic.fna
+GCF_900618255.1_paerg002_genomic.fna
+Length:   6451470 bps
+ GC: 4284067.0
+ AT: 2167403.0
+Sequence 129 : fna/GCF_003319235.1_ASM331923v1_genomic.fna
+GCF_003319235.1_ASM331923v1_genomic.fna
+Length:   6876988 bps
+ GC: 4549835.0
+ AT: 2327153.0
+Sequence 130 : fna/GCF_001874465.1_ASM187446v1_genomic.fna
+GCF_001874465.1_ASM187446v1_genomic.fna
+Length:   6723378 bps
+ GC: 4449360.0
+ AT: 2274018.0
+Sequence 131 : fna/GCF_003571805.1_ASM357180v1_genomic.fna
+GCF_003571805.1_ASM357180v1_genomic.fna
+Length:   7075963 bps
+ GC: 4657938.0
+ AT: 2417715.0
+Sequence 132 : fna/GCF_002997005.1_ASM299700v1_genomic.fna
+GCF_002997005.1_ASM299700v1_genomic.fna
+Length:   6822666 bps
+ GC: 4510302.0
+ AT: 2312364.0
+Sequence 133 : fna/GCF_003957825.1_ASM395782v1_genomic.fna
+GCF_003957825.1_ASM395782v1_genomic.fna
+Length:   6258491 bps
+ GC: 4164023.0
+ AT: 2094468.0
+Sequence 134 : fna/GCF_003073795.1_ASM307379v1_genomic.fna
+GCF_003073795.1_ASM307379v1_genomic.fna
+Length:   7267567 bps
+ GC: 4778595.0
+ AT: 2488972.0
+Sequence 135 : fna/GCF_000271365.1_ASM27136v1_genomic.fna
+GCF_000271365.1_ASM27136v1_genomic.fna
+Length:   6402658 bps
+ GC: 4243057.0
+ AT: 2159601.0
+Sequence 136 : fna/GCF_001722025.1_ASM172202v1_genomic.fna
+GCF_001722025.1_ASM172202v1_genomic.fna
+Length:   6681992 bps
+ GC: 4420759.0
+ AT: 2261233.0
+Sequence 137 : fna/GCF_001516225.2_ASM151622v2_genomic.fna
+GCF_001516225.2_ASM151622v2_genomic.fna
+Length:   6896700 bps
+ GC: 4564144.0
+ AT: 2332556.0
+Sequence 138 : fna/GCF_002968585.1_ASM296858v1_genomic.fna
+GCF_002968585.1_ASM296858v1_genomic.fna
+Length:   6747010 bps
+ GC: 4459586.0
+ AT: 2287424.0
+Sequence 139 : fna/GCF_006364795.1_ASM636479v1_genomic.fna
+GCF_006364795.1_ASM636479v1_genomic.fna
+Length:   6792215 bps
+ GC: 4494584.0
+ AT: 2297631.0
+Sequence 140 : fna/GCF_000496605.2_ASM49660v2_genomic.fna
+GCF_000496605.2_ASM49660v2_genomic.fna
+Length:   6498072 bps
+ GC: 4311697.0
+ AT: 2186375.0
+Sequence 141 : fna/GCF_009720405.1_ASM972040v1_genomic.fna
+GCF_009720405.1_ASM972040v1_genomic.fna
+Length:   7205213 bps
+ GC: 4722388.0
+ AT: 2482515.0
+Sequence 142 : fna/GCF_001594325.2_ASM159432v2_genomic.fna
+GCF_001594325.2_ASM159432v2_genomic.fna
+Length:   6618768 bps
+ GC: 4384988.0
+ AT: 2233780.0
+Sequence 143 : fna/GCF_003812905.1_ASM381290v1_genomic.fna
+GCF_003812905.1_ASM381290v1_genomic.fna
+Length:   6865838 bps
+ GC: 4530824.0
+ AT: 2335014.0
+Sequence 144 : fna/GCF_002205335.1_ASM220533v1_genomic.fna
+GCF_002205335.1_ASM220533v1_genomic.fna
+Length:   6566724 bps
+ GC: 4348941.0
+ AT: 2217783.0
+Sequence 145 : fna/GCF_001516265.1_ASM151626v1_genomic.fna
+GCF_001516265.1_ASM151626v1_genomic.fna
+Length:   7273258 bps
+ GC: 4782847.0
+ AT: 2490411.0
+Sequence 146 : fna/GCF_000816985.1_ASM81698v1_genomic.fna
+GCF_000816985.1_ASM81698v1_genomic.fna
+Length:   6603099 bps
+ GC: 4372793.0
+ AT: 2230306.0
+Sequence 147 : fna/GCF_008033765.1_ASM803376v1_genomic.fna
+GCF_008033765.1_ASM803376v1_genomic.fna
+Length:   6486336 bps
+ GC: 4305329.0
+ AT: 2181007.0
+Sequence 148 : fna/GCF_007559065.1_ASM755906v1_genomic.fna
+GCF_007559065.1_ASM755906v1_genomic.fna
+Length:   6809062 bps
+ GC: 4504036.0
+ AT: 2305026.0
+Sequence 149 : fna/GCF_000829255.1_ASM82925v1_genomic.fna
+GCF_000829255.1_ASM82925v1_genomic.fna
+Length:   6850954 bps
+ GC: 4518980.0
+ AT: 2331974.0
+Sequence 150 : fna/GCF_001516385.1_ASM151638v1_genomic.fna
+GCF_001516385.1_ASM151638v1_genomic.fna
+Length:   6897231 bps
+ GC: 4549863.0
+ AT: 2347368.0
+Sequence 151 : fna/GCF_001516185.2_ASM151618v2_genomic.fna
+GCF_001516185.2_ASM151618v2_genomic.fna
+Length:   6791731 bps
+ GC: 4493994.0
+ AT: 2297737.0
+Sequence 152 : fna/GCF_002812905.2_ASM281290v2_genomic.fna
+GCF_002812905.2_ASM281290v2_genomic.fna
+Length:   6752906 bps
+ GC: 4470752.0
+ AT: 2282154.0
+Sequence 153 : fna/GCF_001548335.1_ASM154833v1_genomic.fna
+GCF_001548335.1_ASM154833v1_genomic.fna
+Length:   6897018 bps
+ GC: 4550598.0
+ AT: 2346420.0
+Sequence 154 : fna/GCF_001900225.1_ASM190022v1_genomic.fna
+GCF_001900225.1_ASM190022v1_genomic.fna
+Length:   6213029 bps
+ GC: 4135859.0
+ AT: 2077170.0
+Sequence 155 : fna/GCF_001518975.1_ASM151897v1_genomic.fna
+GCF_001518975.1_ASM151897v1_genomic.fna
+Length:   6364583 bps
+ GC: 4225748.0
+ AT: 2138835.0
+Sequence 156 : fna/GCF_900618275.1_paerg003_genomic.fna
+GCF_900618275.1_paerg003_genomic.fna
+Length:   6433962 bps
+ GC: 4272016.0
+ AT: 2161946.0
+Sequence 157 : fna/GCF_001618925.1_ASM161892v1_genomic.fna
+GCF_001618925.1_ASM161892v1_genomic.fna
+Length:   6827737 bps
+ GC: 4513685.0
+ AT: 2314052.0
+Sequence 158 : fna/GCF_900618315.1_paerg010_genomic.fna
+GCF_900618315.1_paerg010_genomic.fna
+Length:   6433960 bps
+ GC: 4271989.0
+ AT: 2161971.0
+Sequence 159 : fna/GCF_003332705.2_ASM333270v2_genomic.fna
+GCF_003332705.2_ASM333270v2_genomic.fna
+Length:   6810079 bps
+ GC: 4499596.0
+ AT: 2310483.0
+Sequence 160 : fna/GCF_003716765.1_ASM371676v1_genomic.fna
+GCF_003716765.1_ASM371676v1_genomic.fna
+Length:   6877287 bps
+ GC: 4528574.0
+ AT: 2348713.0
+Sequence 161 : fna/GCF_011466835.1_ASM1146683v1_genomic.fna
+GCF_011466835.1_ASM1146683v1_genomic.fna
+Length:   7266859 bps
+ GC: 4763466.0
+ AT: 2503083.0
+Sequence 162 : fna/GCF_008033725.1_ASM803372v1_genomic.fna
+GCF_008033725.1_ASM803372v1_genomic.fna
+Length:   6501414 bps
+ GC: 4315076.0
+ AT: 2186338.0
+Sequence 163 : fna/GCF_002085605.1_ASM208560v1_genomic.fna
+GCF_002085605.1_ASM208560v1_genomic.fna
+Length:   7380063 bps
+ GC: 4845773.0
+ AT: 2534290.0
+Sequence 164 : fna/GCF_003025345.2_ASM302534v2_genomic.fna
+GCF_003025345.2_ASM302534v2_genomic.fna
+Length:   6165168 bps
+ GC: 4120434.0
+ AT: 2044424.0
+Sequence 165 : fna/GCF_000504045.1_ASM50404v1_genomic.fna
+GCF_000504045.1_ASM50404v1_genomic.fna
+Length:   6580038 bps
+ GC: 4358696.0
+ AT: 2221342.0
+Sequence 166 : fna/GCF_003571505.1_ASM357150v1_genomic.fna
+GCF_003571505.1_ASM357150v1_genomic.fna
+Length:   6972899 bps
+ GC: 4594936.0
+ AT: 2377963.0
+Sequence 167 : fna/GCF_001687285.1_ASM168728v1_genomic.fna
+GCF_001687285.1_ASM168728v1_genomic.fna
+Length:   6833187 bps
+ GC: 4517843.0
+ AT: 2315344.0
+Sequence 168 : fna/GCF_002192495.1_ASM219249v1_genomic.fna
+GCF_002192495.1_ASM219249v1_genomic.fna
+Length:   7241575 bps
+ GC: 4764618.0
+ AT: 2476957.0
+Sequence 169 : fna/GCF_001516245.2_ASM151624v2_genomic.fna
+GCF_001516245.2_ASM151624v2_genomic.fna
+Length:   6517340 bps
+ GC: 4315074.0
+ AT: 2202266.0
+Sequence 170 : fna/GCF_001548135.1_ASM154813v1_genomic.fna
+GCF_001548135.1_ASM154813v1_genomic.fna
+Length:   6613260 bps
+ GC: 4380158.0
+ AT: 2233102.0
+Sequence 171 : fna/GCF_002208645.1_ASM220864v1_genomic.fna
+GCF_002208645.1_ASM220864v1_genomic.fna
+Length:   7411863 bps
+ GC: 4871792.0
+ AT: 2540071.0
+Sequence 172 : fna/GCF_003813005.1_ASM381300v1_genomic.fna
+GCF_003813005.1_ASM381300v1_genomic.fna
+Length:   7029824 bps
+ GC: 4630595.0
+ AT: 2399229.0
+Sequence 173 : fna/GCF_001516365.2_ASM151636v2_genomic.fna
+GCF_001516365.2_ASM151636v2_genomic.fna
+Length:   6460023 bps
+ GC: 4260710.0
+ AT: 2199313.0
+Sequence 174 : fna/GCF_001516105.1_ASM151610v1_genomic.fna
+GCF_001516105.1_ASM151610v1_genomic.fna
+Length:   6456866 bps
+ GC: 4282602.0
+ AT: 2174264.0
+Sequence 175 : fna/GCF_001721745.1_ASM172174v1_genomic.fna
+GCF_001721745.1_ASM172174v1_genomic.fna
+Length:   6643823 bps
+ GC: 4399094.0
+ AT: 2244729.0
+Sequence 176 : fna/GCF_004010895.1_ASM401089v1_genomic.fna
+GCF_004010895.1_ASM401089v1_genomic.fna
+Length:   6824837 bps
+ GC: 4502605.0
+ AT: 2322232.0
+Sequence 177 : fna/GCF_002085755.1_ASM208575v1_genomic.fna
+GCF_002085755.1_ASM208575v1_genomic.fna
+Length:   7077716 bps
+ GC: 4659258.0
+ AT: 2418148.0
+Sequence 178 : fna/GCF_003429185.1_ASM342918v1_genomic.fna
+GCF_003429185.1_ASM342918v1_genomic.fna
+Length:   6546467 bps
+ GC: 4339637.0
+ AT: 2206830.0
+Sequence 179 : fna/GCF_003950015.1_ASM395001v1_genomic.fna
+GCF_003950015.1_ASM395001v1_genomic.fna
+Length:   7178320 bps
+ GC: 4710839.0
+ AT: 2467171.0
+Sequence 180 : fna/GCF_008245185.1_ASM824518v1_genomic.fna
+GCF_008245185.1_ASM824518v1_genomic.fna
+Length:   6290752 bps
+ GC: 4173866.0
+ AT: 2116576.0
+Sequence 181 : fna/GCF_003411785.2_ASM341178v2_genomic.fna
+GCF_003411785.2_ASM341178v2_genomic.fna
+Length:   7294886 bps
+ GC: 4778066.0
+ AT: 2516510.0
+Sequence 182 : fna/GCF_001482325.1_ASM148232v1_genomic.fna
+GCF_001482325.1_ASM148232v1_genomic.fna
+Length:   6431911 bps
+ GC: 4267421.0
+ AT: 2164490.0
+Sequence 183 : fna/GCF_009664165.1_ASM966416v1_genomic.fna
+GCF_009664165.1_ASM966416v1_genomic.fna
+Length:   6835731 bps
+ GC: 4518028.0
+ AT: 2317703.0
+Sequence 184 : fna/GCF_001542835.1_ASM154283v1_genomic.fna
+GCF_001542835.1_ASM154283v1_genomic.fna
+Length:   6794354 bps
+ GC: 4494215.0
+ AT: 2300139.0
+Sequence 185 : fna/GCF_002442855.1_ASM244285v1_genomic.fna
+GCF_002442855.1_ASM244285v1_genomic.fna
+Length:   6334472 bps
+ GC: 4212400.0
+ AT: 2122072.0
+Sequence 186 : fna/GCF_006364735.1_ASM636473v1_genomic.fna
+GCF_006364735.1_ASM636473v1_genomic.fna
+Length:   6263676 bps
+ GC: 4167390.0
+ AT: 2096286.0
+Sequence 187 : fna/GCF_001792875.1_ASM179287v1_genomic.fna
+GCF_001792875.1_ASM179287v1_genomic.fna
+Length:   7006578 bps
+ GC: 4622454.0
+ AT: 2384124.0
+Sequence 188 : fna/GCF_009905195.1_ASM990519v1_genomic.fna
+GCF_009905195.1_ASM990519v1_genomic.fna
+Length:   6335031 bps
+ GC: 4208765.0
+ AT: 2126266.0
+Sequence 189 : fna/GCF_002946935.1_ASM294693v1_genomic.fna
+GCF_002946935.1_ASM294693v1_genomic.fna
+Length:   6645227 bps
+ GC: 4378215.0
+ AT: 2267012.0
+Sequence 190 : fna/GCF_000496645.1_ASM49664v1_genomic.fna
+GCF_000496645.1_ASM49664v1_genomic.fna
+Length:   6309305 bps
+ GC: 4182361.0
+ AT: 2126944.0
+Sequence 191 : fna/GCF_002104595.1_ASM210459v1_genomic.fna
+GCF_002104595.1_ASM210459v1_genomic.fna
+Length:   6985102 bps
+ GC: 4610202.0
+ AT: 2374900.0
+Sequence 192 : fna/GCF_900636735.1_43941_C01_genomic.fna
+GCF_900636735.1_43941_C01_genomic.fna
+Length:   6766292 bps
+ GC: 4470057.0
+ AT: 2296235.0
+Sequence 193 : fna/GCF_009867055.1_ASM986705v1_genomic.fna
+GCF_009867055.1_ASM986705v1_genomic.fna
+Length:   6299465 bps
+ GC: 4192582.0
+ AT: 2106883.0
+Sequence 194 : fna/GCF_002237425.1_ASM223742v1_genomic.fna
+GCF_002237425.1_ASM223742v1_genomic.fna
+Length:   6943220 bps
+ GC: 4584301.0
+ AT: 2358919.0
+Sequence 195 : fna/GCF_001516325.2_ASM151632v2_genomic.fna
+GCF_001516325.2_ASM151632v2_genomic.fna
+Length:   6568228 bps
+ GC: 4351855.0
+ AT: 2216373.0
+Sequence 196 : fna/GCF_901472545.1_36340_E01_genomic.fna
+GCF_901472545.1_36340_E01_genomic.fna
+Length:   6791490 bps
+ GC: 4494036.0
+ AT: 2297454.0
+Sequence 197 : fna/GCF_008705235.1_ASM870523v1_genomic.fna
+GCF_008705235.1_ASM870523v1_genomic.fna
+Length:   6813135 bps
+ GC: 4510991.0
+ AT: 2302144.0
+Sequence 198 : fna/GCF_009676785.1_ASM967678v1_genomic.fna
+GCF_009676785.1_ASM967678v1_genomic.fna
+Length:   7343000 bps
+ GC: 4829309.0
+ AT: 2513691.0
+Sequence 199 : fna/GCF_900618305.1_paerg009_genomic.fna
+GCF_900618305.1_paerg009_genomic.fna
+Length:   6941287 bps
+ GC: 4579800.0
+ AT: 2361487.0
+Sequence 200 : fna/GCF_003813025.1_ASM381302v1_genomic.fna
+GCF_003813025.1_ASM381302v1_genomic.fna
+Length:   7155447 bps
+ GC: 4711162.0
+ AT: 2443975.0
+Sequence 201 : fna/GCF_900618325.1_paerg011_genomic.fna
+GCF_900618325.1_paerg011_genomic.fna
+Length:   6434133 bps
+ GC: 4272124.0
+ AT: 2162009.0
+Sequence 202 : fna/GCF_004193735.1_ASM419373v1_genomic.fna
+GCF_004193735.1_ASM419373v1_genomic.fna
+Length:   6902135 bps
+ GC: 4541572.0
+ AT: 2360563.0
+Sequence 203 : fna/GCF_002205355.1_ASM220535v1_genomic.fna
+GCF_002205355.1_ASM220535v1_genomic.fna
+Length:   7148302 bps
+ GC: 4699188.0
+ AT: 2449114.0
+Sequence 204 : fna/GCF_001447845.1_ASM144784v1_genomic.fna
+GCF_001447845.1_ASM144784v1_genomic.fna
+Length:   6400418 bps
+ GC: 4251381.0
+ AT: 2149037.0
+Sequence 205 : fna/GCF_003952325.1_ASM395232v1_genomic.fna
+GCF_003952325.1_ASM395232v1_genomic.fna
+Length:   6744658 bps
+ GC: 4447231.0
+ AT: 2297427.0
+Sequence 206 : fna/GCF_001792835.1_ASM179283v1_genomic.fna
+GCF_001792835.1_ASM179283v1_genomic.fna
+Length:   6721480 bps
+ GC: 4445977.0
+ AT: 2275503.0
+Sequence 207 : fna/GCF_005305005.1_ASM530500v1_genomic.fna
+GCF_005305005.1_ASM530500v1_genomic.fna
+Length:   6935978 bps
+ GC: 4556673.0
+ AT: 2378995.0
+Sequence 208 : fna/GCF_003073735.1_ASM307373v1_genomic.fna
+GCF_003073735.1_ASM307373v1_genomic.fna
+Length:   7125975 bps
+ GC: 4687781.0
+ AT: 2438194.0
+Sequence 209 : fna/GCF_001516205.2_ASM151620v2_genomic.fna
+GCF_001516205.2_ASM151620v2_genomic.fna
+Length:   6777566 bps
+ GC: 4489387.0
+ AT: 2288179.0
+Sequence 210 : fna/GCF_002812825.1_ASM281282v1_genomic.fna
+GCF_002812825.1_ASM281282v1_genomic.fna
+Length:   6526814 bps
+ GC: 4308725.0
+ AT: 2218089.0
+Sequence 211 : fna/GCF_001547955.1_ASM154795v1_genomic.fna
+GCF_001547955.1_ASM154795v1_genomic.fna
+Length:   7090694 bps
+ GC: 4673609.0
+ AT: 2417085.0
+Sequence 212 : fna/GCF_900069025.1_ASM90006902v1_genomic.fna
+GCF_900069025.1_ASM90006902v1_genomic.fna
+Length:   6212531 bps
+ GC: 4135544.0
+ AT: 2076987.0
+Sequence 213 : fna/GCF_002237405.1_ASM223740v1_genomic.fna
+GCF_002237405.1_ASM223740v1_genomic.fna
+Length:   6952237 bps
+ GC: 4589237.0
+ AT: 2363000.0
+Sequence 214 : fna/GCF_001750705.1_ASM175070v1_genomic.fna
+GCF_001750705.1_ASM175070v1_genomic.fna
+Length:   6866790 bps
+ GC: 4543378.0
+ AT: 2323412.0
+Sequence 215 : fna/GCF_003991465.1_ASM399146v1_genomic.fna
+GCF_003991465.1_ASM399146v1_genomic.fna
+Length:   7005215 bps
+ GC: 4608939.0
+ AT: 2396276.0
+Sequence 216 : fna/GCF_003193645.1_ASM319364v1_genomic.fna
+GCF_003193645.1_ASM319364v1_genomic.fna
+Length:   6475581 bps
+ GC: 4295273.0
+ AT: 2180308.0
+Sequence 217 : fna/GCF_009911735.1_ASM991173v1_genomic.fna
+GCF_009911735.1_ASM991173v1_genomic.fna
+Length:   6397159 bps
+ GC: 4249282.0
+ AT: 2147877.0
+d value:   300
+q value:   30
+
+Mum anchor size:   23.0
+Number of MUM anchors found:   30947
+Number of MUMs found:   5154
+Total MUMs found((Anchors+MUMs)-filtered):   30946
+
+Random MUM length:   1 
+Minimum Cluster length:   21
+Number of MUMs filtered:   5155
+Number of Clusters filtered:   5128
+
+Number of clusters created:   2935
+Average number of MUMs per cluster:   10
+Average cluster length:   926 bps
+Cluster coverage in sequence 1:   43.4%
+Cluster coverage in sequence 2:   41.8%
+Cluster coverage in sequence 3:   43.1%
+Cluster coverage in sequence 4:   37.8%
+Cluster coverage in sequence 5:   37.5%
+Cluster coverage in sequence 6:   42.6%
+Cluster coverage in sequence 7:   37.0%
+Cluster coverage in sequence 8:   38.3%
+Cluster coverage in sequence 9:   38.7%
+Cluster coverage in sequence 10:   41.8%
+Cluster coverage in sequence 11:   40.4%
+Cluster coverage in sequence 12:   41.9%
+Cluster coverage in sequence 13:   38.7%
+Cluster coverage in sequence 14:   37.5%
+Cluster coverage in sequence 15:   41.6%
+Cluster coverage in sequence 16:   41.2%
+Cluster coverage in sequence 17:   43.8%
+Cluster coverage in sequence 18:   41.7%
+Cluster coverage in sequence 19:   38.8%
+Cluster coverage in sequence 20:   43.0%
+Cluster coverage in sequence 21:   40.3%
+Cluster coverage in sequence 22:   42.2%
+Cluster coverage in sequence 23:   42.0%
+Cluster coverage in sequence 24:   40.0%
+Cluster coverage in sequence 25:   43.2%
+Cluster coverage in sequence 26:   40.7%
+Cluster coverage in sequence 27:   38.3%
+Cluster coverage in sequence 28:   39.9%
+Cluster coverage in sequence 29:   39.1%
+Cluster coverage in sequence 30:   38.6%
+Cluster coverage in sequence 31:   39.6%
+Cluster coverage in sequence 32:   38.5%
+Cluster coverage in sequence 33:   40.4%
+Cluster coverage in sequence 34:   39.5%
+Cluster coverage in sequence 35:   39.2%
+Cluster coverage in sequence 36:   42.3%
+Cluster coverage in sequence 37:   41.5%
+Cluster coverage in sequence 38:   40.5%
+Cluster coverage in sequence 39:   39.9%
+Cluster coverage in sequence 40:   40.5%
+Cluster coverage in sequence 41:   37.6%
+Cluster coverage in sequence 42:   42.8%
+Cluster coverage in sequence 43:   41.3%
+Cluster coverage in sequence 44:   39.2%
+Cluster coverage in sequence 45:   42.3%
+Cluster coverage in sequence 46:   43.0%
+Cluster coverage in sequence 47:   42.7%
+Cluster coverage in sequence 48:   38.4%
+Cluster coverage in sequence 49:   41.9%
+Cluster coverage in sequence 50:   43.8%
+Cluster coverage in sequence 51:   39.3%
+Cluster coverage in sequence 52:   40.7%
+Cluster coverage in sequence 53:   41.0%
+Cluster coverage in sequence 54:   41.9%
+Cluster coverage in sequence 55:   39.2%
+Cluster coverage in sequence 56:   43.0%
+Cluster coverage in sequence 57:   38.4%
+Cluster coverage in sequence 58:   40.7%
+Cluster coverage in sequence 59:   39.6%
+Cluster coverage in sequence 60:   38.0%
+Cluster coverage in sequence 61:   40.9%
+Cluster coverage in sequence 62:   39.4%
+Cluster coverage in sequence 63:   39.4%
+Cluster coverage in sequence 64:   39.8%
+Cluster coverage in sequence 65:   42.3%
+Cluster coverage in sequence 66:   43.5%
+Cluster coverage in sequence 67:   39.5%
+Cluster coverage in sequence 68:   41.1%
+Cluster coverage in sequence 69:   41.1%
+Cluster coverage in sequence 70:   38.8%
+Cluster coverage in sequence 71:   40.0%
+Cluster coverage in sequence 72:   42.9%
+Cluster coverage in sequence 73:   42.9%
+Cluster coverage in sequence 74:   39.7%
+Cluster coverage in sequence 75:   37.6%
+Cluster coverage in sequence 76:   40.2%
+Cluster coverage in sequence 77:   39.7%
+Cluster coverage in sequence 78:   39.7%
+Cluster coverage in sequence 79:   42.1%
+Cluster coverage in sequence 80:   39.8%
+Cluster coverage in sequence 81:   39.2%
+Cluster coverage in sequence 82:   39.0%
+Cluster coverage in sequence 83:   38.6%
+Cluster coverage in sequence 84:   41.1%
+Cluster coverage in sequence 85:   40.5%
+Cluster coverage in sequence 86:   35.9%
+Cluster coverage in sequence 87:   37.7%
+Cluster coverage in sequence 88:   43.0%
+Cluster coverage in sequence 89:   41.8%
+Cluster coverage in sequence 90:   37.3%
+Cluster coverage in sequence 91:   42.7%
+Cluster coverage in sequence 92:   40.7%
+Cluster coverage in sequence 93:   40.1%
+Cluster coverage in sequence 94:   43.3%
+Cluster coverage in sequence 95:   40.2%
+Cluster coverage in sequence 96:   42.7%
+Cluster coverage in sequence 97:   39.8%
+Cluster coverage in sequence 98:   39.9%
+Cluster coverage in sequence 99:   40.8%
+Cluster coverage in sequence 100:   38.8%
+Cluster coverage in sequence 101:   40.0%
+Cluster coverage in sequence 102:   42.7%
+Cluster coverage in sequence 103:   40.5%
+Cluster coverage in sequence 104:   43.3%
+Cluster coverage in sequence 105:   42.1%
+Cluster coverage in sequence 106:   42.7%
+Cluster coverage in sequence 107:   39.9%
+Cluster coverage in sequence 108:   41.6%
+Cluster coverage in sequence 109:   39.2%
+Cluster coverage in sequence 110:   42.6%
+Cluster coverage in sequence 111:   38.8%
+Cluster coverage in sequence 112:   41.0%
+Cluster coverage in sequence 113:   41.6%
+Cluster coverage in sequence 114:   43.3%
+Cluster coverage in sequence 115:   35.1%
+Cluster coverage in sequence 116:   38.6%
+Cluster coverage in sequence 117:   39.2%
+Cluster coverage in sequence 118:   42.2%
+Cluster coverage in sequence 119:   40.9%
+Cluster coverage in sequence 120:   39.1%
+Cluster coverage in sequence 121:   39.2%
+Cluster coverage in sequence 122:   41.8%
+Cluster coverage in sequence 123:   40.4%
+Cluster coverage in sequence 124:   42.5%
+Cluster coverage in sequence 125:   38.5%
+Cluster coverage in sequence 126:   36.3%
+Cluster coverage in sequence 127:   40.0%
+Cluster coverage in sequence 128:   42.1%
+Cluster coverage in sequence 129:   39.5%
+Cluster coverage in sequence 130:   40.4%
+Cluster coverage in sequence 131:   38.4%
+Cluster coverage in sequence 132:   39.9%
+Cluster coverage in sequence 133:   43.4%
+Cluster coverage in sequence 134:   37.4%
+Cluster coverage in sequence 135:   42.5%
+Cluster coverage in sequence 136:   40.7%
+Cluster coverage in sequence 137:   39.4%
+Cluster coverage in sequence 138:   40.3%
+Cluster coverage in sequence 139:   40.0%
+Cluster coverage in sequence 140:   41.8%
+Cluster coverage in sequence 141:   37.7%
+Cluster coverage in sequence 142:   41.1%
+Cluster coverage in sequence 143:   39.6%
+Cluster coverage in sequence 144:   41.4%
+Cluster coverage in sequence 145:   37.4%
+Cluster coverage in sequence 146:   41.2%
+Cluster coverage in sequence 147:   41.9%
+Cluster coverage in sequence 148:   39.9%
+Cluster coverage in sequence 149:   39.7%
+Cluster coverage in sequence 150:   39.4%
+Cluster coverage in sequence 151:   40.0%
+Cluster coverage in sequence 152:   40.3%
+Cluster coverage in sequence 153:   39.4%
+Cluster coverage in sequence 154:   43.8%
+Cluster coverage in sequence 155:   42.7%
+Cluster coverage in sequence 156:   42.3%
+Cluster coverage in sequence 157:   39.8%
+Cluster coverage in sequence 158:   42.3%
+Cluster coverage in sequence 159:   39.9%
+Cluster coverage in sequence 160:   39.5%
+Cluster coverage in sequence 161:   37.4%
+Cluster coverage in sequence 162:   41.8%
+Cluster coverage in sequence 163:   36.8%
+Cluster coverage in sequence 164:   44.1%
+Cluster coverage in sequence 165:   41.3%
+Cluster coverage in sequence 166:   39.0%
+Cluster coverage in sequence 167:   39.8%
+Cluster coverage in sequence 168:   37.5%
+Cluster coverage in sequence 169:   41.7%
+Cluster coverage in sequence 170:   41.1%
+Cluster coverage in sequence 171:   36.7%
+Cluster coverage in sequence 172:   38.7%
+Cluster coverage in sequence 173:   42.1%
+Cluster coverage in sequence 174:   42.1%
+Cluster coverage in sequence 175:   40.9%
+Cluster coverage in sequence 176:   39.8%
+Cluster coverage in sequence 177:   38.4%
+Cluster coverage in sequence 178:   41.5%
+Cluster coverage in sequence 179:   37.9%
+Cluster coverage in sequence 180:   43.2%
+Cluster coverage in sequence 181:   37.3%
+Cluster coverage in sequence 182:   42.3%
+Cluster coverage in sequence 183:   39.8%
+Cluster coverage in sequence 184:   40.0%
+Cluster coverage in sequence 185:   42.9%
+Cluster coverage in sequence 186:   43.4%
+Cluster coverage in sequence 187:   38.8%
+Cluster coverage in sequence 188:   42.9%
+Cluster coverage in sequence 189:   40.9%
+Cluster coverage in sequence 190:   43.1%
+Cluster coverage in sequence 191:   38.9%
+Cluster coverage in sequence 192:   40.2%
+Cluster coverage in sequence 193:   43.2%
+Cluster coverage in sequence 194:   39.2%
+Cluster coverage in sequence 195:   41.4%
+Cluster coverage in sequence 196:   40.0%
+Cluster coverage in sequence 197:   39.9%
+Cluster coverage in sequence 198:   37.0%
+Cluster coverage in sequence 199:   39.2%
+Cluster coverage in sequence 200:   38.0%
+Cluster coverage in sequence 201:   42.3%
+Cluster coverage in sequence 202:   39.4%
+Cluster coverage in sequence 203:   38.0%
+Cluster coverage in sequence 204:   42.5%
+Cluster coverage in sequence 205:   40.3%
+Cluster coverage in sequence 206:   40.4%
+Cluster coverage in sequence 207:   39.2%
+Cluster coverage in sequence 208:   38.2%
+Cluster coverage in sequence 209:   40.1%
+Cluster coverage in sequence 210:   41.7%
+Cluster coverage in sequence 211:   38.3%
+Cluster coverage in sequence 212:   43.8%
+Cluster coverage in sequence 213:   39.1%
+Cluster coverage in sequence 214:   39.6%
+Cluster coverage in sequence 215:   38.8%
+Cluster coverage in sequence 216:   42.0%
+Cluster coverage in sequence 217:   42.5%
+Total coverage among all sequences:   40.3%
+
+ MUM anchor search elapsed time:   805.0s 
+ MUM coarsening elapsed time:   553.0s 
+ MUM filtering elapsed time:   0.0s 
+ MUM clustering elapsed time:   0.0s 
+ Inter-clustering elapsed time:   156.0s 
+ Total running time:   1514.0s 

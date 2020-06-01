@@ -11,7 +11,7 @@ k = max(complexity_clade1$end)/max(complexity_clade2$end)
 h1 <- 50
 h2 <- 10
 
-#png("compare_clades.png")
+png("pseudomonas_florescens.png", width = 250, height = 150, units = "mm", res = 300)
 plot(c(1,7e6), c(5,60),type="n",xlab="chromosome position, Mbp", 
      ylab="complexity", cex.lab=1.5, yaxt="n", axes=F)
 plot_complexity(complexity_clade1,h1,1.2,1)
