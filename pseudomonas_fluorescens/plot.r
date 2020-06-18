@@ -25,3 +25,4 @@ plot_phaster("phaster/GCF_000012445.txt",k,h2)
 text(6.8*1e6, 5, "clade2")
 text(6.8*1e6, 60, "clade1")
 
+dev.off()
