@@ -1,3 +1,4 @@
+setwd("/data12/bio/runs-manolov/operon_travel/LF82_annotation/GCBPaperCode/Figure_5/")
 library("data.table")
 source("functions.r")
 
@@ -29,7 +30,7 @@ pai.color <- "#e74c3c"
 ess.color <- "#0891eb"
 
 
-pdf("figure55555.pdf", height = 4, width = 7)
+#pdf("figure55555.pdf", height = 4, width = 7)
 
 plot(complexity$start, complexity$complexity+h0, type="n", pch=3, cex = 0.3, col="gray50", lwd = 1,  
      cex.lab=1.5, yaxt="n", axes=F, ylab = "", xlab = "", ylim = c(0,20+h0), xlim = c(0, 4.8e6))
@@ -50,7 +51,7 @@ lines(c(0, max.x), c(h.rrna.1, h.rrna.1), col = "gray80")
 lines(c(0, max.x), c(h.pai.1, h.pai.1), col = "gray80")
 lines(c(0, max.x), c(h.ess.2, h.ess.2), col = "gray80")
 for(i in seq(1, max.x, 20000)){
-  lines(c(i, i), c(h.pai.1,h.ess.2), col = "gray80")
+  lines(c(i, i), c(h.pai.1,h.ess.2), col = "gray90")
 }
 
 # phaster -----------------------------------------------------------------
@@ -105,4 +106,14 @@ text(oric, h0+18, "oriC", adj = 0)
 # ter <- 1536432
 # lines(c(ter, ter), c(h0, h0+20), col = "#4b38ff", lty = 2)
 
-dev.off()
+### MORE MOBILE ELEMENTS
+gff = read.delim("lf82_prokka/PROKKA_03022021.gff", skip = 2, header = F)
+mobiles = c(grep("integrase",gff$V9), grep("recombinase",gff$V9), grep("transposase",gff$V9),
+            grep("ISfinder",gff$V9))
+
+for(m in mobiles){
+  lines(c(gff[m,5],gff[m,5]), c(h.pai.1, h.pai.2), col = "black")
+}
+View(gff)
+
+#dev.off()
