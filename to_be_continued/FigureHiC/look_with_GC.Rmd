@@ -1,0 +1,25 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+
+```{r}
+library(RSQLite)
+
+get_complexity <- function(org){
+  conn <- dbConnect(RSQLite::SQLite(), paste0(BD_path,org,".db"))
+  print(dbGetQuery(conn, "select * from genomes_table where genome_id = 0;"))
+  res <- dbGetQuery(conn, "select n.start_coord, n.end_coord, c.prob_window_complexity from complexity_table c inner join nodes_table n on c.node_id=n.node_id and c.contig_id=n.contig_id where c.contig_id = 0 and c.window=20 order by n.start_coord")
+  colnames(res) <- c("start","end","complexity")
+  return(res)
+}
+
+```
+
+
+```{r}
+
+```
